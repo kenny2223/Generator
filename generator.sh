@@ -4,7 +4,7 @@
 
 
 
-wget https://github.com/kenny2223/Generator_Generator/blob/main/generator.tar.gz?raw=true -O generator.tar.gz
+wget https://github.com/kenny2223/Generator/blob/main/generator.tar.gz?raw=true -O generator.tar.gz
 
 tar -xvzf generator.tar.gz
 
