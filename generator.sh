@@ -4,7 +4,7 @@ wget https://github.com/kenny2223/Generator/blob/main/generator.tar.gz?raw=true 
 tar -xvzf generator.tar.gz
 cd generator
 #make the menu.xml
-cat << EOF > menu.xml 
+cat << EOF > menu.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <module>
 <menulist>
