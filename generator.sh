@@ -1,9 +1,5 @@
 #!/bin/bash
 #Script Develop for Ing.Kenny Ortiz
-
-
-
-
 wget https://github.com/kenny2223/Generator/blob/main/generator.tar.gz?raw=true -O generator.tar.gz
 
 tar -xvzf generator.tar.gz
