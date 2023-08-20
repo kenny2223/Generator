@@ -25,4 +25,4 @@ cp -r ./Modulos/* /var/www/html/modules/
 
 cd ..
 
-rm -rf A*
+rm -rf generator*
